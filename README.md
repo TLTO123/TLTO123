@@ -14,7 +14,7 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Mis Proyectos
 
 ### 🏆 **PROYECTOS PRINCIPALES**
 
@@ -31,7 +31,7 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 #### 2. **USmile**
 - **Descripción:** Proyecto USmile - Aplicación de servicios de sonrisa
 - **Lenguaje:** Java
-- **Tipo:** Académico/Colaborativo
+- **Tipo:** Académico
 - **Estado:** ✅ Completado
 - **Características:** Interfaz gráfica, base de datos, sistema completo
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/USmile)
@@ -45,7 +45,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 - **Estado:** ✅ Activo
 - **Características:** Diseño responsivo, interfaz moderna, GitHub Pages habilitado
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/video-galeria)
-- **Demo:** [Visitar Galería](https://github.com/TLTO123/video-galeria)
 
 ---
 
@@ -62,66 +61,19 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 ### 🤝 **PROYECTOS COLABORATIVOS**
 
 #### 5. **Proyecto_MDB**
-- **Descripción:** Fase final de proyecto de MDB
+- **Descripción:** Fase final de proyecto de MDB - Desarrollo de aplicación de base de datos
 - **Lenguaje:** C#
 - **Colaboradores:** [CARBAJAL-CR11](https://github.com/CARBAJAL-CR11)
 - **Tipo:** Académico Colaborativo
 - **Estado:** ✅ Completado
+- **Mi Rol:** Colaborador y Desarrollador
 - **GitHub:** [Ver Repositorio](https://github.com/CARBAJAL-CR11/Proyecto_MDB)
-
----
-
-#### 6. **ProyectoADS**
-- **Descripción:** Proyecto de Análisis y Diseño de Sistemas
-- **Lenguaje:** C#
-- **Colaboradores:** [Raptor-Rbelde](https://github.com/Raptor-Rbelde)
-- **Tipo:** Académico Colaborativo
-- **GitHub:** [Ver Repositorio](https://github.com/Raptor-Rbelde/ProyectoADS)
-
----
-
-#### 7. **Torneos**
-- **Descripción:** Sistema de gestión de torneos
-- **Lenguaje:** C#
-- **Colaboradores:** [BerryBGoode](https://github.com/BerryBGoode)
-- **Tipo:** Académico Colaborativo
-- **GitHub:** [Ver Repositorio](https://github.com/BerryBGoode/Torneos)
-
----
-
-### 🌐 **PROYECTOS WEB (PHP)**
-
-#### 8. **Shoplify**
-- **Descripción:** Plataforma de e-commerce y tienda en línea
-- **Lenguaje:** PHP
-- **Tipo:** Desarrollo Web
-- **Características:** Sistema de compras, gestión de productos, carrito de compras
-- **Colaboradores:** [Carlos-2005](https://github.com/Carlos-2005)
-- **GitHub:** [Ver Repositorio](https://github.com/Carlos-2005/Shoplify)
-
----
-
-#### 9. **SafeNow**
-- **Descripción:** Sistema de seguridad y gestión de acceso
-- **Lenguaje:** PHP
-- **Tipo:** Desarrollo Web
-- **Características:** Control de acceso, gestión de usuarios, sistema de seguridad
-- **Colaboradores:** [Carlos-2005](https://github.com/Carlos-2005)
-- **GitHub:** [Ver Repositorio](https://github.com/Carlos-2005/SafeNow)
-
----
-
-#### 10. **USmile (Colaborativo)**
-- **Descripción:** Versión colaborativa del proyecto USmile
-- **Tipo:** Colaborativo
-- **Colaboradores:** [z1trofer](https://github.com/z1trofer)
-- **GitHub:** [Ver Repositorio](https://github.com/z1trofer/USmile)
 
 ---
 
 ### 📖 **PROYECTOS DE APRENDIZAJE**
 
-#### 11. **Hello-git**
+#### 6. **Hello-git**
 - **Descripción:** Repositorio de prueba para el curso de git-github
 - **Lenguaje:** Python
 - **Tipo:** Learning/Educativo
@@ -153,17 +105,16 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 ## 📊 Estadísticas
 
 ```
-Proyectos Totales:      11
-├── Proyectos Personales: 6
-├── Proyectos Colaborativos: 4
+Proyectos Totales:           6
+├── Proyectos Personales:    5
+├── Proyectos Colaborativos: 1
 └── Proyectos de Aprendizaje: 1
 
 Lenguajes Principales:
-├── C#:       5 proyectos
-├── Java:     2 proyectos
-├── PHP:      2 proyectos
-├── HTML/CSS: 1 proyecto
-└── Python:   1 proyecto
+├── C#:           3 proyectos
+├── Java:         1 proyecto
+├── HTML/CSS/JS:  1 proyecto
+└── Python:       1 proyecto
 ```
 
 ---
@@ -183,7 +134,7 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 
 ---
 
-## 📫 Contacto y Redes
+## 📫 Contacto
 
 - 💼 **GitHub:** [@TLTO123](https://github.com/TLTO123)
 - 📧 **Email:** [Tu email aquí]
@@ -212,7 +163,7 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 ## ✨ Destacados
 
 - ⭐ Experiencia en desarrollo académico y profesional
-- ⭐ Colaboración en múltiples proyectos de equipo
+- ⭐ Colaboración en proyectos de equipo
 - ⭐ Dominio de POO y diseño de sistemas
 - ⭐ Versatilidad con múltiples lenguajes de programación
 - ⭐ Compromiso con la calidad del código
