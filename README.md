@@ -18,7 +18,7 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 ### 🏆 **PROYECTOS ACADÉMICOS - REPOSITORIO PROPIO**
 
 #### 1. **StreamWorks** 
-- **Descripción:** Sistema de gestión de streaming
+- **Descripción:** Sistema de gestión de contenido multimedia
 - **Lenguaje:** C#
 - **Tipo:** Académico 
 - **Estado:** ✅ Completado
