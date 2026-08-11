@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy TLTO123
 
-Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP y desarrollo web**.
+Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la programación con experiencia en **C#, Java, PHP y desarrollo web**.
 ---
 
 ## 🎯 Sobre Mí
@@ -119,7 +119,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -127,7 +126,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 ### Conceptos y Metodologías
 - 🎯 Programación Orientada a Objetos (POO)
 - 📐 Análisis y Diseño de Sistemas
-- 🏗️ Patrones de Diseño
 - 💾 Bases de Datos
 - 📱 Desarrollo de Aplicaciones
 - 🤝 Trabajo en Equipo y Colaboración
@@ -182,7 +180,6 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 ## ✨ Destacados
 
 - ⭐ Experiencia en desarrollo académico
-- ⭐ Colaboración activa en 5 proyectos de equipo
 - ⭐ Versatilidad con múltiples lenguajes y tecnologías
 - ⭐ Compromiso con la calidad del código
 - ⭐ Capacidad de trabajo en equipo
