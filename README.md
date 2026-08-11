@@ -21,7 +21,7 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 #### 1. **StreamWorks** 
 - **Descripción:** Proyecto de Cátedra POO - Sistema de gestión de streaming
 - **Lenguaje:** C#
-- **Tipo:** Académico
+- **Tipo:** Académico Personal
 - **Estado:** ✅ Completado
 - **Características:** Implementación de patrones de diseño, POO avanzado
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/StreamWorks)
@@ -31,7 +31,7 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 #### 2. **USmile**
 - **Descripción:** Proyecto USmile - Aplicación de servicios de sonrisa
 - **Lenguaje:** Java
-- **Tipo:** Académico
+- **Tipo:** Académico Personal
 - **Estado:** ✅ Completado
 - **Características:** Interfaz gráfica, base de datos, sistema completo
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/USmile)
@@ -41,44 +41,83 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 #### 3. **video-galeria**
 - **Descripción:** Galería de videos interactiva y responsiva
 - **Lenguaje:** HTML, CSS, JavaScript
-- **Tipo:** Frontend
+- **Tipo:** Frontend Personal
 - **Estado:** ✅ Activo
 - **Características:** Diseño responsivo, interfaz moderna, GitHub Pages habilitado
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/video-galeria)
 
 ---
 
-### 📚 **PROYECTOS ACADÉMICOS**
+### 📚 **PROYECTOS ACADÉMICOS PERSONALES**
 
 #### 4. **Proyecto-de-Cátedra-POO104**
 - **Descripción:** Proyecto de Cátedra POO - Módulo 104
 - **Lenguaje:** C#
-- **Tipo:** Académico
+- **Tipo:** Académico Personal
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/Proyecto-de-C-tedra-POO104)
+
+---
+
+#### 5. **Hello-git**
+- **Descripción:** Repositorio de prueba para el curso de git-github
+- **Lenguaje:** Python
+- **Tipo:** Learning/Educativo Personal
+- **Propósito:** Dominio de control de versiones con Git y GitHub
+- **GitHub:** [Ver Repositorio](https://github.com/TLTO123/Hello-git)
 
 ---
 
 ### 🤝 **PROYECTOS COLABORATIVOS**
 
-#### 5. **Proyecto_MDB**
+#### 6. **Proyecto_MDB**
 - **Descripción:** Fase final de proyecto de MDB - Desarrollo de aplicación de base de datos
 - **Lenguaje:** C#
-- **Colaboradores:** [CARBAJAL-CR11](https://github.com/CARBAJAL-CR11)
-- **Tipo:** Académico Colaborativo
+- **Propietario:** [CARBAJAL-CR11](https://github.com/CARBAJAL-CR11)
+- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
 - **Estado:** ✅ Completado
-- **Mi Rol:** Colaborador y Desarrollador
 - **GitHub:** [Ver Repositorio](https://github.com/CARBAJAL-CR11/Proyecto_MDB)
 
 ---
 
-### 📖 **PROYECTOS DE APRENDIZAJE**
+#### 7. **Torneos**
+- **Descripción:** Sistema de gestión de torneos
+- **Lenguaje:** C#
+- **Propietario:** [BerryBGoode](https://github.com/BerryBGoode)
+- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
+- **Estado:** ✅ Completado
+- **GitHub:** [Ver Repositorio](https://github.com/BerryBGoode/Torneos)
 
-#### 6. **Hello-git**
-- **Descripción:** Repositorio de prueba para el curso de git-github
-- **Lenguaje:** Python
-- **Tipo:** Learning/Educativo
-- **Propósito:** Dominio de control de versiones con Git y GitHub
-- **GitHub:** [Ver Repositorio](https://github.com/TLTO123/Hello-git)
+---
+
+#### 8. **ProyectoADS**
+- **Descripción:** Proyecto de Análisis y Diseño de Sistemas
+- **Lenguaje:** C#
+- **Propietario:** [Raptor-Rbelde](https://github.com/Raptor-Rbelde)
+- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
+- **Estado:** ✅ Completado
+- **GitHub:** [Ver Repositorio](https://github.com/Raptor-Rbelde/ProyectoADS)
+
+---
+
+#### 9. **SafeNow**
+- **Descripción:** Sistema de seguridad y gestión de acceso
+- **Lenguaje:** PHP
+- **Propietario:** [Carlos-2005](https://github.com/Carlos-2005)
+- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
+- **Estado:** ✅ Completado
+- **Características:** Control de acceso, gestión de usuarios, sistema de seguridad
+- **GitHub:** [Ver Repositorio](https://github.com/Carlos-2005/SafeNow)
+
+---
+
+#### 10. **Shoplify**
+- **Descripción:** Plataforma de e-commerce y tienda en línea
+- **Lenguaje:** PHP
+- **Propietario:** [Carlos-2005](https://github.com/Carlos-2005)
+- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
+- **Estado:** ✅ Completado
+- **Características:** Sistema de compras, gestión de productos, carrito de compras
+- **GitHub:** [Ver Repositorio](https://github.com/Carlos-2005/Shoplify)
 
 ---
 
@@ -99,22 +138,29 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 - 🏗️ Patrones de Diseño
 - 💾 Bases de Datos
 - 📱 Desarrollo de Aplicaciones
+- 🤝 Trabajo en Equipo y Colaboración
 
 ---
 
 ## 📊 Estadísticas
 
 ```
-Proyectos Totales:           6
+Proyectos Totales:           10
 ├── Proyectos Personales:    5
-├── Proyectos Colaborativos: 1
-└── Proyectos de Aprendizaje: 1
+└── Proyectos Colaborativos: 5
 
 Lenguajes Principales:
-├── C#:           3 proyectos
+├── C#:           5 proyectos
+├── PHP:          2 proyectos
 ├── Java:         1 proyecto
 ├── HTML/CSS/JS:  1 proyecto
 └── Python:       1 proyecto
+
+Colaboradores:
+├── BerryBGoode
+├── Raptor-Rbelde
+├── Carlos-2005
+└── CARBAJAL-CR11
 ```
 
 ---
@@ -144,10 +190,11 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 
 ## 🎓 Formación
 
-- 📚 Programación Orientada a Objetos
+- 📚 Programación Orientada a Objetos (POO)
 - 📚 Análisis y Diseño de Sistemas
 - 📚 Desarrollo Web Full Stack
 - 📚 Control de Versiones (Git/GitHub)
+- 📚 Bases de Datos
 
 ---
 
@@ -157,16 +204,18 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 - 🔄 Desarrollo de APIs REST
 - 🔄 Frameworks modernos (ASP.NET, Spring, Laravel)
 - 🔄 DevOps y Cloud Computing
+- 🔄 Testing y CI/CD
 
 ---
 
 ## ✨ Destacados
 
 - ⭐ Experiencia en desarrollo académico y profesional
-- ⭐ Colaboración en proyectos de equipo
+- ⭐ Colaboración activa en 5 proyectos de equipo
 - ⭐ Dominio de POO y diseño de sistemas
-- ⭐ Versatilidad con múltiples lenguajes de programación
+- ⭐ Versatilidad con múltiples lenguajes y tecnologías
 - ⭐ Compromiso con la calidad del código
+- ⭐ Capacidad de trabajo en equipo
 
 ---
 
