@@ -173,7 +173,7 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 ## 📫 Contacto
 
 - 💼 **GitHub:** [@TLTO123](https://github.com/TLTO123)
-- 📧 **Email:** [cantareroalex771@gmail.com]
+- 📧 **Email:** [cantareroalex771@gmail.com](cantareroalex771@gmail.com)
 
 ---
 
