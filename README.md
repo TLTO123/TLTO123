@@ -1,37 +1,36 @@
 # 👋 ¡Hola! Soy TLTO123
 
-Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP y desarrollo web**. Me especializo en **Programación Orientada a Objetos (POO)** y desarrollo de aplicaciones completas.
-
+Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP y desarrollo web**.
 ---
 
 ## 🎯 Sobre Mí
 
 - 💻 Desarrollador Full Stack
-- 📚 Experiencia en desarrollo académico y profesional
-- 🎓 Formación en POO, Análisis de Sistemas y Diseño de Software
-- 🔧 Apasionado por crear soluciones robustas y escalables
-- 📈 Comprometido con el aprendizaje continuo
+- 📚 Experiencia en desarrollo académico
+- 🎓 Bachillerato técnico en Desarrollo de Software
+- 🔧 Comprometido con el aprendizaje continuo
+- 📈 Estudiante de tercer año en Ingeniería en Ciencias de la Computación
 
 ---
 
 ## 🌟 Mis Proyectos
 
-### 🏆 **PROYECTOS PRINCIPALES**
+### 🏆 **PROYECTOS ACADÉMICOS - REPOSITORIO PROPIO**
 
 #### 1. **StreamWorks** 
-- **Descripción:** Proyecto de Cátedra POO - Sistema de gestión de streaming
+- **Descripción:** Sistema de gestión de streaming
 - **Lenguaje:** C#
-- **Tipo:** Académico Personal
+- **Tipo:** Académico 
 - **Estado:** ✅ Completado
-- **Características:** Implementación de patrones de diseño, POO avanzado
+- **Características:** Implementación de patrones de diseño, POO
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/StreamWorks)
 
 ---
 
 #### 2. **USmile**
-- **Descripción:** Proyecto USmile - Aplicación de servicios de sonrisa
+- **Descripción:** Proyecto USmile - Sistema de gestión para una clínica dental
 - **Lenguaje:** Java
-- **Tipo:** Académico Personal
+- **Tipo:** Académico 
 - **Estado:** ✅ Completado
 - **Características:** Interfaz gráfica, base de datos, sistema completo
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/USmile)
@@ -41,19 +40,17 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 #### 3. **video-galeria**
 - **Descripción:** Galería de videos interactiva y responsiva
 - **Lenguaje:** HTML, CSS, JavaScript
-- **Tipo:** Frontend Personal
+- **Tipo:** Académico
 - **Estado:** ✅ Activo
 - **Características:** Diseño responsivo, interfaz moderna, GitHub Pages habilitado
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/video-galeria)
 
 ---
 
-### 📚 **PROYECTOS ACADÉMICOS PERSONALES**
-
 #### 4. **Proyecto-de-Cátedra-POO104**
 - **Descripción:** Proyecto de Cátedra POO - Módulo 104
 - **Lenguaje:** C#
-- **Tipo:** Académico Personal
+- **Tipo:** Académico
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/Proyecto-de-C-tedra-POO104)
 
 ---
@@ -67,13 +64,12 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 
 ---
 
-### 🤝 **PROYECTOS COLABORATIVOS**
+### 🏆 **PROYECTOS ACADÉMICOS - COLABORADOR**
 
 #### 6. **Proyecto_MDB**
-- **Descripción:** Fase final de proyecto de MDB - Desarrollo de aplicación de base de datos
+- **Descripción:** Fase final de proyecto de MDB - Desarrollo de aplicación para conceptos de base de datos
 - **Lenguaje:** C#
 - **Propietario:** [CARBAJAL-CR11](https://github.com/CARBAJAL-CR11)
-- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
 - **Estado:** ✅ Completado
 - **GitHub:** [Ver Repositorio](https://github.com/CARBAJAL-CR11/Proyecto_MDB)
 
@@ -83,7 +79,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 - **Descripción:** Sistema de gestión de torneos
 - **Lenguaje:** C#
 - **Propietario:** [BerryBGoode](https://github.com/BerryBGoode)
-- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
 - **Estado:** ✅ Completado
 - **GitHub:** [Ver Repositorio](https://github.com/BerryBGoode/Torneos)
 
@@ -93,7 +88,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 - **Descripción:** Proyecto de Análisis y Diseño de Sistemas
 - **Lenguaje:** C#
 - **Propietario:** [Raptor-Rbelde](https://github.com/Raptor-Rbelde)
-- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
 - **Estado:** ✅ Completado
 - **GitHub:** [Ver Repositorio](https://github.com/Raptor-Rbelde/ProyectoADS)
 
@@ -103,7 +97,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 - **Descripción:** Sistema de seguridad y gestión de acceso
 - **Lenguaje:** PHP
 - **Propietario:** [Carlos-2005](https://github.com/Carlos-2005)
-- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
 - **Estado:** ✅ Completado
 - **Características:** Control de acceso, gestión de usuarios, sistema de seguridad
 - **GitHub:** [Ver Repositorio](https://github.com/Carlos-2005/SafeNow)
@@ -114,7 +107,6 @@ Desarrollador apasionado por la programación con experiencia en **C#, Java, PHP
 - **Descripción:** Plataforma de e-commerce y tienda en línea
 - **Lenguaje:** PHP
 - **Propietario:** [Carlos-2005](https://github.com/Carlos-2005)
-- **Mi Rol:** Colaborador y Desarrollador (Push + Triage)
 - **Estado:** ✅ Completado
 - **Características:** Sistema de compras, gestión de productos, carrito de compras
 - **GitHub:** [Ver Repositorio](https://github.com/Carlos-2005/Shoplify)
@@ -183,36 +175,14 @@ git clone https://github.com/TLTO123/[nombre-proyecto].git
 ## 📫 Contacto
 
 - 💼 **GitHub:** [@TLTO123](https://github.com/TLTO123)
-- 📧 **Email:** [Tu email aquí]
-- 🔗 **LinkedIn:** [Tu perfil aquí]
-
----
-
-## 🎓 Formación
-
-- 📚 Programación Orientada a Objetos (POO)
-- 📚 Análisis y Diseño de Sistemas
-- 📚 Desarrollo Web Full Stack
-- 📚 Control de Versiones (Git/GitHub)
-- 📚 Bases de Datos
-
----
-
-## 💡 Lo que estoy aprendiendo
-
-- 🔄 Patrones avanzados de arquitectura de software
-- 🔄 Desarrollo de APIs REST
-- 🔄 Frameworks modernos (ASP.NET, Spring, Laravel)
-- 🔄 DevOps y Cloud Computing
-- 🔄 Testing y CI/CD
+- 📧 **Email:** [cantareroalex771@gmail.com]
 
 ---
 
 ## ✨ Destacados
 
-- ⭐ Experiencia en desarrollo académico y profesional
+- ⭐ Experiencia en desarrollo académico
 - ⭐ Colaboración activa en 5 proyectos de equipo
-- ⭐ Dominio de POO y diseño de sistemas
 - ⭐ Versatilidad con múltiples lenguajes y tecnologías
 - ⭐ Compromiso con la calidad del código
 - ⭐ Capacidad de trabajo en equipo
