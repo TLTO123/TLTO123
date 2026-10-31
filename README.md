@@ -67,7 +67,7 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 #### 6. **sort-visualizer**
 - **Descripción:** Visualizador interactivo de algoritmos de ordenamiento
 - **Lenguaje:** HTML, CSS, JavaScript
-- **Tipo:** Personal
+- **Tipo:** Académico
 - **Estado:** ✅ Activo
 - **Características:** Animación de algoritmos de ordenamiento, visualización visual interactiva
 - **GitHub:** [Ver Repositorio](https://github.com/TLTO123/sort-visualizer)
