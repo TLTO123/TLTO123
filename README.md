@@ -64,9 +64,19 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 
 ---
 
+#### 6. **sort-visualizer**
+- **Descripción:** Visualizador interactivo de algoritmos de ordenamiento
+- **Lenguaje:** HTML, CSS, JavaScript
+- **Tipo:** Personal
+- **Estado:** ✅ Activo
+- **Características:** Animación de algoritmos de ordenamiento, visualización visual interactiva
+- **GitHub:** [Ver Repositorio](https://github.com/TLTO123/sort-visualizer)
+
+---
+
 ### 🏆 **PROYECTOS ACADÉMICOS - COLABORADOR**
 
-#### 6. **Proyecto_MDB**
+#### 7. **Proyecto_MDB**
 - **Descripción:** Fase final de proyecto de MDB - Desarrollo de aplicación para conceptos de base de datos
 - **Lenguaje:** C#
 - **Propietario:** [CARBAJAL-CR11](https://github.com/CARBAJAL-CR11)
@@ -75,7 +85,7 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 
 ---
 
-#### 7. **Torneos**
+#### 8. **Torneos**
 - **Descripción:** Sistema de gestión de torneos
 - **Lenguaje:** C#
 - **Propietario:** [BerryBGoode](https://github.com/BerryBGoode)
@@ -84,7 +94,7 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 
 ---
 
-#### 8. **ProyectoADS**
+#### 9. **ProyectoADS**
 - **Descripción:** Proyecto de Análisis y Diseño de Sistemas
 - **Lenguaje:** C#
 - **Propietario:** [Raptor-Rbelde](https://github.com/Raptor-Rbelde)
@@ -93,7 +103,7 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 
 ---
 
-#### 9. **SafeNow**
+#### 10. **SafeNow**
 - **Descripción:** Sistema de seguridad y gestión de acceso
 - **Lenguaje:** PHP
 - **Propietario:** [Carlos-2005](https://github.com/Carlos-2005)
@@ -103,7 +113,7 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 
 ---
 
-#### 10. **Shoplify**
+#### 11. **Shoplify**
 - **Descripción:** Plataforma de e-commerce y tienda en línea
 - **Lenguaje:** PHP
 - **Propietario:** [Carlos-2005](https://github.com/Carlos-2005)
@@ -135,15 +145,15 @@ Mi nombre es Alex Mauricio Alvarado Cantarero, desarrollador apasionado por la p
 ## 📊 Estadísticas
 
 ```
-Proyectos Totales:           10
-├── Proyectos Personales:    5
+Proyectos Totales:           11
+├── Proyectos Personales:    6
 └── Proyectos Colaborativos: 5
 
 Lenguajes Principales:
 ├── C#:           5 proyectos
 ├── PHP:          2 proyectos
 ├── Java:         1 proyecto
-├── HTML/CSS/JS:  1 proyecto
+├── HTML/CSS/JS:  2 proyectos
 └── Python:       1 proyecto
 
 Colaboradores:
