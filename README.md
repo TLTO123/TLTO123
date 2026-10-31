@@ -1,6 +1,6 @@
 🌍 Read this in: [English](#english) | [Español](#español)
 
-<h2 id="english"> 🇬🇧 English </h2>
+<h2 id="english"> English </h2>
 
 # 👋 Hello! I'm TLTO123
 
@@ -224,7 +224,7 @@ Made with ❤️ by [TLTO123](https://github.com/TLTO123)
 
 </div>
 
-<h2 id="español"> 🇪🇸 Español </h2>
+<h2 id="español"> Español </h2>
 
 # 👋 ¡Hola! Soy TLTO123
 
